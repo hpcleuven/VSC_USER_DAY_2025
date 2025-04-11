@@ -1,4 +1,4 @@
-# KULeuven/UHasselt VSC User Day 13.06.2024
+# KULeuven/UHasselt VSC User Day 02.06.2025
 
 ## Program
 
