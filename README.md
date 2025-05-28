@@ -2,25 +2,34 @@
 
 ## Program
 
-* Registration (with coffee and tea): 09:00 – 09:30 (Foyer)
+* Registration (with coffee and tea): 09:00 – 09:30 &nbsp; (Foyer)
 
-* Morning session: 09:30 – 12:00 (Auditorium Erik Duval)
+* Morning session: 09:30 – 12:00 &nbsp; (Auditorium Erik Duval)
 
-  09:30 - 09:35    Welcome
-  09:35 - 10:20    Code profiling demo and hands-on (HPC support)
-  10:25 - 11:10    High-throughput computing frameworks & performance aspects (HPC support)
-  11:15 - 12:00    Tier-2 data management: From ingest to outflow (RDM and HPC support)
+  09:30 - 09:35 &nbsp; Welcome
+  
+  09:35 - 10:20 &nbsp; Code profiling demo and hands-on (HPC support)
+  
+  10:25 - 11:10 &nbsp; High-throughput computing frameworks & performance aspects (HPC support)
+  
+  11:15 - 12:00 &nbsp; Tier-2 data management: From ingest to outflow (RDM and HPC support)
 
-* Lunch: 12:00 – 13:00 (Foyer)
+* Lunch: 12:00 – 13:00 &nbsp; (Foyer)
 
-* Afternoon session: 13:00 – 16:00 (Auditorium Erik Duval)
+* Afternoon session: 13:00 – 16:00 &nbsp; (Auditorium Erik Duval)
 
-  13:00 - 13:25     User testimonial 1 (Baptiste Debes, Processing Speech and Images)
-  13:25 - 13:50     User testimonial 2 (Florian Matz and Mauro Gascón Navas, Quantum Chemistry and Physical Chemistry)
-  13:50 - 14:20     Flash presentations
-  14:20 - 15:00     Coffee break (Foyer)
-  15:00 - 15:10     Award for the flashiest flash presentation
-  15:10 - 15:35     User testimonial 3 (Liuyin Yang, Laboratory for Neuro- and Psychophysiology)
-  15:35 - 16:00     User testimonial 4 (Thijs Steel, Numerical Analysis and Applied Mathematics)
+  13:00 - 13:25 &nbsp; User testimonial 1 (Baptiste Debes, Processing Speech and Images)
+  
+  13:25 - 13:50 &nbsp; User testimonial 2 (Florian Matz and Mauro Gascón Navas, Quantum Chemistry and Physical Chemistry)
+  
+  13:50 - 14:20 &nbsp; Flash presentations
+  
+  14:20 - 15:00 &nbsp; Coffee break (Foyer)
+  
+  15:00 - 15:10 &nbsp; Award for the flashiest flash presentation
+  
+  15:10 - 15:35 &nbsp; User testimonial 3 (Liuyin Yang, Laboratory for Neuro- and Psychophysiology)
+  
+  15:35 - 16:00 &nbsp; User testimonial 4 (Thijs Steel, Numerical Analysis and Applied Mathematics)
 
-* Reception: 16:00 – 17:30 (Foyer)
+* Reception: 16:00 – 17:30 &nbsp; (Foyer)
