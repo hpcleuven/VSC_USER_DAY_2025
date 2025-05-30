@@ -8,7 +8,7 @@
 
   09:30 - 09:35 &nbsp; Welcome
   
-  09:35 - 10:20 &nbsp; Code profiling demo and hands-on (HPC support)
+  09:35 - 10:20 &nbsp; Code profiling demo and hands-on (HPC support) [[pptx](presentations/code_profiling_workshop.pptx) - [pdf](presentations/code_profiling_workshop.pdf) - [examples](https://github.com/hpcleuven/code-profiling-workshop/tree/main/examples/mandelbrot)]
   
   10:25 - 11:10 &nbsp; High-throughput computing frameworks & performance aspects (HPC support)
   
